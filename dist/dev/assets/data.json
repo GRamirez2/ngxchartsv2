@@ -1,0 +1,138 @@
+[
+    {
+      "key": "Adherent",
+      "color": "#00ff00",
+      "values": [
+        {
+          "label" : "Group A" ,
+          "value" : 6.666
+        } ,
+        {
+          "label" : "Group B" ,
+          "value" : 12.371
+        } ,
+        {
+          "label" : "Group C" ,
+          "value" : 60.000
+        } ,
+        {
+          "label" : "Group D" ,
+          "value" : 10.526
+        },
+        {
+          "label" : "Group E" ,
+          "value" : 43.75
+        },
+        {
+          "label" : "Group F" ,
+          "value" : 18.442
+        },
+        {
+          "label" : "All" ,
+          "value" : 17.684
+        }
+      ]
+    },
+    {
+      "key": "Testing",
+      "color": "#1f77b4",
+      "values": [
+        {
+          "label" : "Group A" ,
+          "value" : 53.333
+        } ,
+        {
+          "label" : "Group B" ,
+          "value" : 47.422
+        } ,
+        {
+          "label" : "Group C" ,
+          "value" : 15.000
+        } ,
+        {
+          "label" : "Group D" ,
+          "value" : 71.052
+        },
+        {
+          "label" : "Group E" ,
+          "value" : 25.000
+        },
+        {
+          "label" : "Group F" ,
+          "value" : 54.098
+        },
+        {
+          "label" : "All" ,
+          "value" : 51.368
+        }
+      ]
+    },
+    {
+      "key": "Non_Adherent",
+      "color": "#ff7777",
+      "values": [
+        {
+          "label" : "Group A" ,
+          "value" : 33.333
+        } ,
+        {
+          "label" : "Group B" ,
+          "value" : 25.773
+        } ,
+        {
+          "label" : "Group C" ,
+          "value" : 20.000
+        } ,
+        {
+          "label" : "Group D" ,
+          "value" : 18.421
+        },
+        {
+          "label" : "Group E" ,
+          "value" : 18.75
+        },
+        {
+          "label" : "Group F" ,
+          "value" : 17.622
+        },
+        {
+          "label" : "All" ,
+          "value" : 21.473
+        }
+      ]
+    },
+    {
+      "key": "Over_30_days",
+      "color": "#ff0000",
+      "values": [
+        {
+          "label" : "Group A" ,
+          "value" : 6.66
+        } ,
+        {
+          "label" : "Group B" ,
+          "value" : 14.432
+        } ,
+        {
+          "label" : "Group C" ,
+          "value" : 5.000
+        } ,
+        {
+          "label" : "Group D" ,
+          "value" : 0
+        },
+        {
+          "label" : "Group E" ,
+          "value" : 12.5
+        },
+        {
+          "label" : "Group F" ,
+          "value" : 9.836
+        },
+        {
+          "label" : "All" ,
+          "value" : 9.473
+        }
+      ]
+    }
+  ]
